@@ -1,5 +1,9 @@
-# nmap-masscan-automator
 # 🕵️‍♂️ Nmap Recon Toolkit
+Advanced Network Scanning Suite (Nmap + Masscan + DNS Resolver)
+Python License Platform Tool Status
+
+A powerful and automated Network Reconnaissance Toolkit built for penetration testers, red teamers, bug bounty hunters, and security researchers. This CLI tool integrates Nmap, Masscan, and nslookup into one unified scanning engine featuring 21 automated recon modes, fast domain resolving, and instant desktop scan notifications.
+
 
 ### Advanced Network Scanning Suite (Nmap + Masscan + DNS Resolver)
 
