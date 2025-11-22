@@ -1,0 +1,1 @@
+# nmap-masscan-automator
