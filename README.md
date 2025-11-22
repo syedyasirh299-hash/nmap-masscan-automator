@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot_2025-11-22_16_11_08" src="https://github.com/user-attachments/assets/767ae383-0ef1-495b-a9b9-b31a67364f66" /><img width="1108" height="938" alt="image" src="https://github.com/user-attachments/assets/3c1d84b0-6ec1-40b3-9f63-c253c41aaba3" /># nmap-masscan-automator
+# nmap-masscan-automator
 # 🕵️‍♂️ Nmap Recon Toolkit
 
 ### Advanced Network Scanning Suite (Nmap + Masscan + DNS Resolver)
