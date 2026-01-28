@@ -118,13 +118,13 @@ The scanner will:
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](1.png)
+![Main Menu](0001.png)
 
 ### Scan Output Example
-![Scan Output](2.png)
+![Scan Output](0002.png)
 
 ### netfaction
-![Scan][3.ping]
+![Scan][0003.ping]
 
 ## ⚠️ Legal Disclaimer
 
